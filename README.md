@@ -75,9 +75,9 @@ Problem: Website not loading.
 
     Commands:
 
-ping google.com
-nslookup yourapp.com
-curl -I http://127.0.0.1
-ip a
-
+    ping google.com
+    nslookup yourapp.com
+    curl -I http://127.0.0.1
+    ip a
+    
 Objective: Is it a DNS or network misconfiguration issue?
