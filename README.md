@@ -1,4 +1,4 @@
-🔧 Activity Title: "Web App is Down – Troubleshoot and Fix"
+🔧 "Web App is Down – Troubleshoot and Fix"
 🧩 Scenario
 
 You are the on-call DevOps engineer. A monitoring alert has just reported that the web application is not reachable. Your task is to SSH into the server and troubleshoot the root cause using shell commands.
